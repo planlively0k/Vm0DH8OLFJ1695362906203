@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ffe447dcfb3740a38e15387979b3f461
+timeCreated: 1610098963
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Akrobat-Bold"
+  fontNames:
+  - Akrobat
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

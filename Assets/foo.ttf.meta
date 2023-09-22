@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7ab6b62c02c848bd998b77fbadd23031
+timeCreated: 1610129114
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "foo"
+  fontNames:
+  - Foo
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

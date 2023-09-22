@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 00651c33b4dd439c83b76295c4448df8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: achievement-icons_12
+  - first:
+      213: 21300002
+    second: achievement-icons_0
+  - first:
+      213: 21300004
+    second: achievement-icons_1
+  - first:
+      213: 21300006
+    second: achievement-icons_3
+  - first:
+      213: 21300008
+    second: achievement-icons_6
+  - first:
+      213: 21300010
+    second: achievement-icons_7
+  - first:
+      213: 21300012
+    second: achievement-icons_11
+  - first:
+      213: 21300014
+    second: achievement-icons_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: achievement-icons_6
+      rect:
+        serializedVersion: 2
+        x: 284.0761
+        y: 252.0761
+        width: 76.99998
+        height: 88.97531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.49999, y: 44.48766}
+        - {x: 38.49999, y: 44.48766}
+        - {x: -38.49999, y: -44.48766}
+      - - {x: -38.49999, y: -44.48766}
+        - {x: 38.49999, y: 44.48766}
+        - {x: 38.49999, y: -44.48766}
+      physicsShape:
+      - - {x: 37.4239, y: 8.436218}
+        - {x: 28.4239, y: 20.43622}
+        - {x: 30.4239, y: 26.43622}
+        - {x: 22.4239, y: 31.43622}
+        - {x: 16.4239, y: 31.43622}
+        - {x: 10.4239, y: 26.43622}
+        - {x: 11.4239, y: 15.43622}
+        - {x: 22.4239, y: 12.43622}
+        - {x: 30.4239, y: 1.436218}
+        - {x: 29.4239, y: -16.56378}
+        - {x: 18.4239, y: -30.56378}
+        - {x: 6.423897, y: -36.56378}
+        - {x: -18.5761, y: -30.56378}
+        - {x: -30.5761, y: -9.563782}
+        - {x: -22.5761, y: 15.43622}
+        - {x: -14.5761, y: 15.43622}
+        - {x: -12.5761, y: 17.43622}
+        - {x: -9.576103, y: 26.43622}
+        - {x: -13.5761, y: 31.43622}
+        - {x: -22.5761, y: 31.43622}
+        - {x: -29.5761, y: 28.43622}
+        - {x: -37.5761, y: 7.436217}
+        - {x: -37.5761, y: -14.56378}
+        - {x: -32.5761, y: -26.56378}
+        - {x: -25.5761, y: -34.56378}
+        - {x: -15.5761, y: -40.56378}
+        - {x: -8.576103, y: -43.56378}
+        - {x: 10.4239, y: -43.56378}
+        - {x: 28.4239, y: -33.56378}
+        - {x: 37.4239, y: -18.56378}
+        - {x: -6.576101, y: 4.436217}
+        - {x: -6.576101, y: -14.56378}
+        - {x: -5.576103, y: -17.56378}
+        - {x: 1.423897, y: -17.56378}
+        - {x: 3.423897, y: -16.56378}
+        - {x: 3.423897, y: 4.436217}
+        - {x: -2.576103, y: 37.43622}
+        - {x: -10.5761, y: 32.43622}
+        - {x: -10.5761, y: 19.43622}
+        - {x: -9.576103, y: 16.43622}
+        - {x: 8.423897, y: 16.43622}
+        - {x: 11.4239, y: 25.43622}
+        - {x: 11.4239, y: 32.43622}
+        - {x: 6.423897, y: 37.43622}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-icons_11
+      rect:
+        serializedVersion: 2
+        x: 401.0761
+        y: 178.0761
+        width: 78.99998
+        height: 76.96193
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.49999, y: 38.48096}
+        - {x: 39.49999, y: 38.48096}
+        - {x: -39.49999, y: -38.48096}
+      - - {x: -39.49999, y: -38.48096}
+        - {x: 39.49999, y: 38.48096}
+        - {x: 39.49999, y: -38.48096}
+      physicsShape:
+      - - {x: -20.5761, y: -37.55709}
+        - {x: 21.4239, y: -37.55709}
+        - {x: 21.4239, y: -34.55708}
+        - {x: 18.4239, y: -31.55708}
+        - {x: -19.5761, y: -31.55708}
+        - {x: -20.5761, y: -33.55709}
+        - {x: 29.4239, y: 3.442908}
+        - {x: 9.423901, y: 8.442907}
+        - {x: -1.5761, y: 8.442907}
+        - {x: -9.576097, y: 6.442909}
+        - {x: -17.5761, y: -6.557091}
+        - {x: -29.5761, y: 3.442908}
+        - {x: -38.5761, y: -1.557092}
+        - {x: -38.5761, y: -10.55709}
+        - {x: -19.5761, y: -31.55708}
+        - {x: 20.4239, y: -31.55708}
+        - {x: 24.4239, y: -25.55709}
+        - {x: 38.4239, y: -10.55709}
+        - {x: 38.4239, y: -1.557092}
+        - {x: -14.5761, y: -24.55709}
+        - {x: -11.5761, y: -25.55709}
+        - {x: -6.576098, y: -20.55709}
+        - {x: -4.576099, y: -17.55709}
+        - {x: -4.576099, y: -16.55709}
+        - {x: 0.4239005, y: -9.557091}
+        - {x: -0.5760994, y: -9.557091}
+        - {x: 1.4239, y: -11.55709}
+        - {x: 1.4239, y: -12.55709}
+        - {x: 9.423901, y: -24.55709}
+        - {x: 14.4239, y: -24.55709}
+        - {x: 19.4239, y: -20.55709}
+        - {x: 18.4239, y: -20.55709}
+        - {x: 15.4239, y: -24.55709}
+        - {x: -15.5761, y: -24.55709}
+        - {x: -15.5761, y: -23.55709}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-icons_7
+      rect:
+        serializedVersion: 2
+        x: 401.0761
+        y: 252.0761
+        width: 77.9684
+        height: 88.98579
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.9842, y: 44.49289}
+        - {x: 38.9842, y: 44.49289}
+        - {x: -38.9842, y: -44.49289}
+      - - {x: -38.9842, y: -44.49289}
+        - {x: 38.9842, y: 44.49289}
+        - {x: 38.9842, y: -44.49289}
+      physicsShape:
+      - - {x: 37.93969, y: 4.430973}
+        - {x: 34.93968, y: 9.430972}
+        - {x: 28.93969, y: 26.43097}
+        - {x: 21.93969, y: 31.43098}
+        - {x: 17.93969, y: 31.43098}
+        - {x: 10.93969, y: 26.43097}
+        - {x: 11.93969, y: 15.43098}
+        - {x: 23.93969, y: 10.43098}
+        - {x: 29.93969, y: 0.430973}
+        - {x: 25.93969, y: -22.56902}
+        - {x: 7.93969, y: -35.56902}
+        - {x: -6.06031, y: -35.56902}
+        - {x: -26.06031, y: -22.56902}
+        - {x: -22.06031, y: 14.43098}
+        - {x: -10.06031, y: 15.43098}
+        - {x: -8.06031, y: 26.43097}
+        - {x: -15.06031, y: 31.43098}
+        - {x: -20.06031, y: 31.43098}
+        - {x: -26.06031, y: 28.43097}
+        - {x: -36.06031, y: 10.43098}
+        - {x: -38.06031, y: -0.569027}
+        - {x: -38.06031, y: -13.56902}
+        - {x: -34.06031, y: -25.56902}
+        - {x: -20.06031, y: -39.56902}
+        - {x: -8.06031, y: -43.56902}
+        - {x: 14.93969, y: -43.56902}
+        - {x: 35.93969, y: -26.56902}
+        - {x: 37.93969, y: -15.56902}
+        - {x: -14.06031, y: 4.430973}
+        - {x: -14.06031, y: -14.56902}
+        - {x: -13.06031, y: -17.56902}
+        - {x: -6.06031, y: -17.56902}
+        - {x: -4.06031, y: -16.56902}
+        - {x: -4.06031, y: 4.430973}
+        - {x: -1.06031, y: -12.56902}
+        - {x: 1.93969, y: -17.56902}
+        - {x: 7.93969, y: -17.56902}
+        - {x: 12.93969, y: -15.56902}
+        - {x: 12.93969, y: 0.430973}
+        - {x: 10.93969, y: 4.430973}
+        - {x: 3.93969, y: 4.430973}
+        - {x: -1.06031, y: 3.430972}
+        - {x: 5.939689, y: -2.569027}
+        - {x: 5.939689, y: -10.56902}
+        - {x: -1.06031, y: 37.43098}
+        - {x: -10.06031, y: 30.43098}
+        - {x: -10.06031, y: 24.43097}
+        - {x: -9.060309, y: 16.43098}
+        - {x: 7.93969, y: 16.43098}
+        - {x: 10.93969, y: 27.43098}
+        - {x: 10.93969, y: 30.43098}
+        - {x: 2.93969, y: 37.43098}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-icons_3
+      rect:
+        serializedVersion: 2
+        x: 411.0761
+        y: 338.0381
+        width: 67.98761
+        height: 83.96194
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.9938, y: 41.98097}
+        - {x: 33.9938, y: 41.98097}
+        - {x: -33.9938, y: -41.98097}
+      - - {x: -33.9938, y: -41.98097}
+        - {x: 33.9938, y: 41.98097}
+        - {x: 33.9938, y: -41.98097}
+      physicsShape:
+      - - {x: 18.93009, y: 33.98097}
+        - {x: -11.06991, y: 33.98097}
+        - {x: -18.06991, y: 32.98096}
+        - {x: -31.06991, y: 20.98097}
+        - {x: -33.06991, y: 11.98097}
+        - {x: -33.06991, y: -10.01903}
+        - {x: -21.06991, y: -24.01903}
+        - {x: -11.06991, y: -28.01903}
+        - {x: 12.93009, y: -28.01903}
+        - {x: 28.93009, y: -13.01903}
+        - {x: 28.93009, y: 13.98097}
+        - {x: 25.93009, y: 26.98097}
+        - {x: -13.06991, y: -17.01903}
+        - {x: -22.06991, y: 12.98097}
+        - {x: 5.930084, y: 23.98097}
+        - {x: 10.93009, y: 20.98097}
+        - {x: 9.930084, y: 21.98097}
+        - {x: 4.930084, y: 21.98097}
+        - {x: -2.069916, y: 16.98097}
+        - {x: -1.069916, y: 7.980972}
+        - {x: 3.930084, y: 4.980972}
+        - {x: 7.930084, y: 3.980972}
+        - {x: 10.93009, y: 4.980972}
+        - {x: 15.93009, y: 9.980973}
+        - {x: 16.93008, y: 13.98097}
+        - {x: 15.93009, y: 14.98097}
+        - {x: 16.93008, y: 15.98097}
+        - {x: 15.93009, y: 15.98097}
+        - {x: 18.93009, y: 11.98097}
+        - {x: 26.93008, y: 33.98097}
+        - {x: 22.93009, y: 29.98097}
+        - {x: 22.93009, y: 28.98097}
+        - {x: 26.93008, y: 24.98097}
+        - {x: 28.93009, y: 24.98097}
+        - {x: 32.93009, y: 28.98097}
+        - {x: 32.93009, y: 29.98097}
+        - {x: 28.93009, y: 33.98097}
+        - {x: 20.93009, y: 40.98097}
+        - {x: 17.93009, y: 37.98097}
+        - {x: 17.93009, y: 36.98097}
+        - {x: 20.93009, y: 33.98097}
+        - {x: 21.93009, y: 33.98097}
+        - {x: 24.93009, y: 36.98097}
+        - {x: 24.93009, y: 37.98097}
+        - {x: 21.93009, y: 40.98097}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-icons_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 24
+        width: 530
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -265, y: 56.5}
+        - {x: 265, y: 56.5}
+        - {x: -265, y: -56.5}
+      - - {x: -265, y: -56.5}
+        - {x: 265, y: 56.5}
+        - {x: 265, y: -56.5}
+      physicsShape:
+      - - {x: 265, y: 7.5}
+        - {x: 237, y: 56.5}
+        - {x: -236, y: 56.5}
+        - {x: -265, y: 8.5}
+        - {x: -265, y: -7.5}
+        - {x: -238, y: -53.5}
+        - {x: -235, y: -56.5}
+        - {x: 235, y: -56.5}
+        - {x: 238, y: -53.5}
+        - {x: 265, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-icons_1
+      rect:
+        serializedVersion: 2
+        x: 172.0761
+        y: 357.0515
+        width: 52.98339
+        height: 61.97533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.4917, y: 30.98767}
+        - {x: 26.4917, y: 30.98767}
+        - {x: -26.4917, y: -30.98767}
+      - - {x: -26.4917, y: -30.98767}
+        - {x: 26.4917, y: 30.98767}
+        - {x: 26.4917, y: -30.98767}
+      physicsShape:
+      - - {x: 25.43218, y: -14.03909}
+        - {x: 25.43218, y: 27.96091}
+        - {x: 23.43218, y: 29.96091}
+        - {x: 8.432177, y: 29.96091}
+        - {x: -9.567822, y: 28.96091}
+        - {x: -25.56782, y: -9.039089}
+        - {x: -25.56782, y: -24.03909}
+        - {x: -19.56782, y: -30.03909}
+        - {x: -7.567823, y: -30.03909}
+        - {x: -2.567823, y: -22.03909}
+        - {x: 7.432177, y: -19.03909}
+        - {x: 16.43218, y: -21.03909}
+        - {x: -17.56782, y: -18.03909}
+        - {x: -15.56782, y: -15.03909}
+        - {x: -10.56782, y: -20.03909}
+        - {x: -11.56782, y: -21.03909}
+        - {x: 10.43218, y: -10.03909}
+        - {x: 12.43218, y: -5.039089}
+        - {x: 17.43218, y: -8.039087}
+        - {x: 14.43218, y: -11.03909}
+        - {x: 5.432177, y: 18.96091}
+        - {x: 6.432177, y: 19.96091}
+        - {x: 16.43218, y: 19.96091}
+        - {x: 4.432177, y: 18.96091}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-icons_4
+      rect:
+        serializedVersion: 2
+        x: 68.07613
+        y: 261.0761
+        width: 29.99999
+        height: 56.99999
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.99999, y: 28.49999}
+        - {x: 14.99999, y: 28.49999}
+        - {x: -14.99999, y: -28.49999}
+      - - {x: -14.99999, y: -28.49999}
+        - {x: 14.99999, y: 28.49999}
+        - {x: 14.99999, y: -28.49999}
+      physicsShape:
+      - - {x: -8.076124, y: 27.42389}
+        - {x: -14.07612, y: 12.42389}
+        - {x: -14.07612, y: -16.57611}
+        - {x: -10.07613, y: -27.57611}
+        - {x: 13.92387, y: -27.57611}
+        - {x: 13.92387, y: 27.42389}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement-icons_0
+      rect:
+        serializedVersion: 2
+        x: 53.07612
+        y: 353.0761
+        width: 77
+        height: 87.97532
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 43.98766}
+        - {x: 38.5, y: 43.98766}
+        - {x: -38.5, y: -43.98766}
+      - - {x: -38.5, y: -43.98766}
+        - {x: 38.5, y: 43.98766}
+        - {x: 38.5, y: -43.98766}
+      physicsShape:
+      - - {x: 37.42388, y: -16.06377}
+        - {x: 37.42388, y: 3.93623}
+        - {x: 33.42388, y: 13.93623}
+        - {x: 27.42388, y: 19.93623}
+        - {x: 30.42388, y: 26.93623}
+        - {x: 22.42388, y: 31.93623}
+        - {x: 16.42388, y: 31.93623}
+        - {x: 9.423881, y: 26.93623}
+        - {x: 14.42388, y: 13.93623}
+        - {x: 26.42388, y: 10.93623}
+        - {x: 29.42388, y: -14.06377}
+        - {x: 18.42388, y: -30.06377}
+        - {x: 7.423881, y: -35.06377}
+        - {x: -5.576118, y: -35.06377}
+        - {x: -24.57612, y: -24.06377}
+        - {x: -30.57612, y: -2.06377}
+        - {x: -22.57612, y: 15.93623}
+        - {x: -13.57612, y: 15.93623}
+        - {x: -8.576118, y: 23.93623}
+        - {x: -10.57612, y: 28.93623}
+        - {x: -18.57612, y: 31.93623}
+        - {x: -19.57612, y: 31.93623}
+        - {x: -28.57612, y: 27.93623}
+        - {x: -37.57612, y: 6.93623}
+        - {x: -37.57612, y: -21.06377}
+        - {x: -22.57612, y: -39.06377}
+        - {x: -8.576118, y: -43.06376}
+        - {x: 6.423882, y: -43.06376}
+        - {x: 16.42388, y: -40.06376}
+        - {x: 24.42388, y: -35.06377}
+        - {x: 33.42388, y: -26.06377}
+        - {x: -4.576118, y: -1.06377}
+        - {x: -12.57612, y: -1.06377}
+        - {x: -15.57612, y: -5.06377}
+        - {x: -15.57612, y: -16.06377}
+        - {x: -13.57612, y: -17.06377}
+        - {x: -1.576118, y: -17.06377}
+        - {x: -1.576118, y: -3.06377}
+        - {x: 11.42388, y: 4.936228}
+        - {x: 9.423881, y: 4.936228}
+        - {x: 7.423881, y: 2.93623}
+        - {x: 6.423882, y: 4.936228}
+        - {x: -0.5761185, y: 4.936228}
+        - {x: -0.5761185, y: -17.06377}
+        - {x: 14.42388, y: -17.06377}
+        - {x: 16.42388, y: -16.06377}
+        - {x: 16.42388, y: -9.06377}
+        - {x: 13.42388, y: 2.93623}
+        - {x: 6.423882, y: 37.93623}
+        - {x: -2.576118, y: 37.93623}
+        - {x: -10.57612, y: 32.93623}
+        - {x: -10.57612, y: 24.93623}
+        - {x: -7.576118, y: 16.93623}
+        - {x: 6.423882, y: 16.93623}
+        - {x: 8.423881, y: 18.93623}
+        - {x: 11.42388, y: 25.93623}
+        - {x: 11.42388, y: 32.93623}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      achievement-icons_11: 21300012
+      achievement-icons_7: 21300010
+      achievement-icons_3: 21300006
+      achievement-icons_12: 21300000
+      achievement-icons_6: 21300008
+      achievement-icons_4: 21300014
+      achievement-icons_1: 21300004
+      achievement-icons_0: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
